@@ -5,9 +5,11 @@ Algoritmo MiMenu
     Repetir
         // Menú principal
         Escribir "----- MENÚ PRINCIPAL -----"
-        Escribir "1. Notas y promedios"
-        Escribir "2. Ingresar a una calculadora"
-        Escribir "3. Salir"
+        Escribir "1. NOTAS Y PROMEDIOS"
+        Escribir "2. IGRESAR A UNA CAALCULADORA"
+        Escribir "2. SEMAFORO"
+		Escribir "3. Salir"
+		
         Escribir "Elige una opción:"
         Leer opcionMenu
         
